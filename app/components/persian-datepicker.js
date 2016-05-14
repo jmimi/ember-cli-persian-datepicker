@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-persian-datepicker/components/persian-datepicker';
